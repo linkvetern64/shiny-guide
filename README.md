@@ -1,2 +1,2 @@
-# CMSC447-Group6-WebsiteProject
+WebsiteProject
 - Joshua Standiford - Jstand1@umbc.edu
